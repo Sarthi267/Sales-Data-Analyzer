@@ -19,25 +19,25 @@ Product and category must have the first letter capitalized, and each segment mu
 ***
 Example of a generated report based on the example above:  
 
-===== Sales Analysis Report =====  
-Generated: 2026-05-30
+===== Sales Analysis Report =====
+Generated: 2026-10-19
 
-Total Revenue: \$8249.28
-Average Order Value: $2062.32
+Total Revenue: \$11249.25
+Average Order Value: $2249.85
 
-Revenue by Category:  
-Technology: \$3499.93
-Furniture: \$4499.85  
+Revenue by Category:
+Technology: \$6499.90
+Furniture: \$4499.85
 OfficeSupplies: $249.50
-  
 
 Top 5 Best Selling Products by Revenue:
 1. Monitor - $3499.93
-2. Chair - $2499.90
-3. Desk - $1999.95
-4. Notebook - $249.50  
+2. Laptop - $2999.97
+3. Chair - $2499.90
+4. Desk - $1999.95
+5. Notebook - $249.50
 
-Revenue from sales above \$100: \$7999.78  
+Revenue from sales above \$100: \$10999.75
 Revenue from high volume sales (quantity > 10): $249.50
 ***
 Prerequisites:  
