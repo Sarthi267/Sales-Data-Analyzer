@@ -12,7 +12,6 @@ public List<Sale> loadSales() throws Exception {
     List<Sale> sales = new ArrayList<>();
     Scanner scanner = new Scanner(new File("Input/sales.csv"));
 
-    scanner.nextLine();
 
     while (scanner.hasNextLine()) {
         String line = scanner.nextLine();
